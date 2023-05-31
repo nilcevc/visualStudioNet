@@ -1,0 +1,8 @@
+C:\Users\gabyv\source\repos\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+C:\Users\gabyv\source\repos\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+C:\Users\gabyv\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.AssemblyReference.cache
+C:\Users\gabyv\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+C:\Users\gabyv\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+C:\Users\gabyv\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+C:\Users\gabyv\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+C:\Users\gabyv\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb
